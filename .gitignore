@@ -1,2 +1,4 @@
-
 *.Rmd
+.Rproj.user
+.gitignore
+*.Rproj
