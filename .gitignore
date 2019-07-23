@@ -1,5 +1,6 @@
 *.Rmd
 .Rproj.user
+.Rproj.user/
 .gitignore
 *.Rproj
 .Rhistory
